@@ -4,7 +4,7 @@
 [![GitHub](https://i.imgur.com/VByVgFB.png)](https://github.com/Connor-J-H) &emsp;
 [![Instagram](https://i.imgur.com/m4A2uIF.png)]()
 
-I'm a Junior year Computer Science major at Kennesaw State University.
+I'm a Junior year Computer Science student at Kennesaw State University.
 
 ### Languages
 ![Java](https://i.imgur.com/qqe6WtS.png) &emsp;
